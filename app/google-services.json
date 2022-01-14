@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "876651812115",
+    "project_id": "batteryoptimizer-41d4c",
+    "storage_bucket": "batteryoptimizer-41d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876651812115:android:ef7bc1c5e7264f3fbff6e6",
+        "android_client_info": {
+          "package_name": "com.hmatalonga.greenhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876651812115-6acpn1eona0lee5qp9bs0fc42uhviue1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQv_NcBdhXbEzhyAOpKXfsgfci---EoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876651812115-6acpn1eona0lee5qp9bs0fc42uhviue1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876651812115:android:968300b7d85bd7eebff6e6",
+        "android_client_info": {
+          "package_name": "com.hmatalonga.greenhub.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876651812115-6acpn1eona0lee5qp9bs0fc42uhviue1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQv_NcBdhXbEzhyAOpKXfsgfci---EoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876651812115-6acpn1eona0lee5qp9bs0fc42uhviue1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

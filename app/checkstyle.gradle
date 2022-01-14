@@ -1,0 +1,23 @@
+apply plugin: 'checkstyle'
+
+dependencies {
+    checkstyle 'com.puppycrawl.tools:checkstyle:7.8.2'
+}
+
+def checkstyleConfigDir = "$project.rootDir/config"
+
+check.dependsOn 'checkstyle'
+
+task checkstyle(type: Checkstyle, group: 'Verification') {
+    description = "Check code style to follow AOSP Java Code Style."
+    configFile file("$checkstyleConfigDir/checkstyle-config.xml")
+    source 'src'
+    include '**/*.java'
+
+    reports {
+        xml.enabled = false
+        html.enabled = true
+    }
+
+    classpath = files()
+}

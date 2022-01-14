@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Battery_Saver.iml" filepath="$PROJECT_DIR$/.idea/modules/Battery_Saver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Battery_Saver.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Battery_Saver.app.iml" />
+    </modules>
+  </component>
+</project>
